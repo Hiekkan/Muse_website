@@ -1,4 +1,4 @@
-# Project form the ÜK101 - Muse Fanpage 🎸
+# Project from the ÜK101 - Muse Fanpage 🎸
 Some first experiences in HTML &amp; CSS
 
 Preview of the sites (sorry it's written in german with some grammar mistakes)
