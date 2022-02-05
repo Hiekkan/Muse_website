@@ -1,5 +1,5 @@
-# Muse_website
-Project of the ÜK101 with some first experiences in HTML &amp; CSS
+# Project form the ÜK101 - Muse Fanpage 🎸
+Some first experiences in HTML &amp; CSS
 
 Preview of the sites (sorry it's written in german with some grammar mistakes)
 
